@@ -1,6 +1,6 @@
-# 🌟 Olá, eu sou o Enzo Ramos!  
+# 🌟 Olá, eu sou o Enzo!  
 Bem-vindo ao meu perfil no GitHub! 😄  
-Sou um apaixonado por tecnologia, programação e criatividade. Pokémon tem um espalo especial no meu coração. 🚀 Quando não estou desenvolvendo projetos, estou jogando Minecraft, escrevendo algo ou treinando futsal! ⚽
+Sou um apaixonado por tecnologia, programação e criatividade. Pokémon tem um espalo especial no meu coração. Quando não estou desenvolvendo projetos, estou jogando Minecraft, escrevendo algo ou treinando futsal!
 
 ---
 
